@@ -1,0 +1,12 @@
+{
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 17,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.accessibilitySupport": "off",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "accessibility.verbosity.hover": false,
+    "accessibility.verbosity.inlineCompletions": false,
+    "accessibility.verbosity.notification": false,
+    "accessibility.verbosity.walkthrough": false
+}
