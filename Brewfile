@@ -1,5 +1,7 @@
-# aws 
+# dev-ops tools 
 brew "awscli"
+brew "terraform"
+
 
 # command line tools
 brew "antigen"
