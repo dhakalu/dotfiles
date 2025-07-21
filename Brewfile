@@ -1,12 +1,25 @@
+# aws 
+brew "awscli"
+
+# command line tools
 brew "antigen"
-brew "go"
-brew "node"
-brew "uv"
+cask "iterm2"
 brew "zoxide"
 cask "git-credential-manager"
-cask "iterm2"
+
+# programming languages
+brew "go"
+brew "node"
+
+# python tools
+brew "uv"
+
+# productivity tools
 cask "raycast"
 cask "rectangle"
+cask "bitwarden"
+
+# ide and editors
 cask "visual-studio-code"
 vscode "github.copilot"
 vscode "github.copilot-chat"
