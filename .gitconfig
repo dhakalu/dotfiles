@@ -1,8 +1,0 @@
-[credential]
-	helper = 
-	helper = /usr/local/share/gcm-core/git-credential-manager
-[credential "https://dev.azure.com"]
-	useHttpPath = true
-[user]
-	name = Upendra Dhakal
-	email = dhakal.upenn@gmail.com

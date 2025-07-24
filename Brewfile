@@ -15,6 +15,7 @@ cask "ghostty"
 cask "git-credential-manager"
 brew "fzf" # fuzzy finder
 brew "eza" # modern replacement for ls
+brew "stow"
 
 # programming languages
 brew "go"
