@@ -5,7 +5,7 @@ brew "terraform"
 
 # command line tools
 brew "antigen"
-cask "iterm2"
+cask "ghostty"
 brew "zoxide"
 cask "git-credential-manager"
 
