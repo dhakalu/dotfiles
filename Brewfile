@@ -13,6 +13,8 @@ brew "zoxide"
 brew "pre-commit"
 cask "ghostty"
 cask "git-credential-manager"
+brew "fzf" # fuzzy finder
+brew "eza" # modern replacement for ls
 
 # programming languages
 brew "go"
