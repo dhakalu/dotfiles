@@ -9,13 +9,14 @@ cask "devtoys"
 # command line tools
 brew "antigen"
 brew "bat" # syntax highlighting for cat
-brew "zoxide"
-brew "pre-commit"
-cask "ghostty"
-cask "git-credential-manager"
 brew "fzf" # fuzzy finder
 brew "eza" # modern replacement for ls
+cask "ghostty"
+brew "git"
+cask "git-credential-manager"
+brew "pre-commit"
 brew "stow"
+brew "zoxide"
 
 # programming languages
 brew "go"
@@ -25,6 +26,7 @@ brew "node"
 
 # database tools
 cask "dbvisualizer"
+brew "liquibase"
 
 # python tools
 brew "uv"
@@ -35,6 +37,8 @@ brew "ruff"
 cask "raycast"
 # cask "rectangle" # raycast has this functionality
 cask "bitwarden"
+cask "microsoft-teams"
+cask "postman"
 
 # ide and editors
 cask "visual-studio-code"
